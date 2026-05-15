@@ -1,0 +1,25 @@
+{
+  "name": "tugas-mahasiswa-programming-web-lanjutan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajengsumawi077-spec/tugas-mahasiswa-programming-web-lanjutan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ajengsumawi077-spec/tugas-mahasiswa-programming-web-lanjutan/issues"
+  },
+  "homepage": "https://github.com/ajengsumawi077-spec/tugas-mahasiswa-programming-web-lanjutan#readme",
+  "dependencies": {
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
